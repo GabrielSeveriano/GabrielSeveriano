@@ -1,16 +1,51 @@
-## Hi there 👋
+<!-- Banner animado (Tokyo Night) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:7dcfff&height=200&section=header&text=Gabriel%20Severiano&fontSize=55&fontColor=1a1b27&fontAlignY=38&animation=fadeIn" width="100%" />
+</p>
 
-<!--
-**GabrielSeveriano/GabrielSeveriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A Software Engineering student at Universidade de Brasília</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&size=26&center=true&vCenter=true&width=600&height=45&duration=2500&repeat=false&color=7aa2f7&lines=%F0%9F%93%AB+Contact+me+%F0%9F%93%AB" alt="Contact me" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Contatos -->
+<div align="center">
+  <a href="mailto:gabriel.severianos@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielseverianodesouza/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&size=26&center=true&vCenter=true&width=600&height=45&duration=2500&repeat=false&color=7aa2f7&lines=%E2%9A%92%EF%B8%8F+Languages-Frameworks-Tools+%E2%9A%92%EF%B8%8F" alt="Languages-Frameworks-Tools" />
+</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,ts,nodejs,nestjs,react,nextjs,tailwind,postgres,git,github,linux&theme=dark" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&size=26&center=true&vCenter=true&width=600&height=45&duration=2500&repeat=false&color=7dcfff&lines=%F0%9F%93%9A+Currently+learning+%F0%9F%93%9A" alt="Currently learning" />
+</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,figma,docker&theme=dark" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielSeveriano&theme=tokyonight&hide_border=true&show_icons=true&hide=stars&rank_icon=github" />
+</div>
+
+<!-- Onda no rodapé, fechando o visual -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,100:7aa2f7&height=120&section=footer" width="100%" />
+</p>
