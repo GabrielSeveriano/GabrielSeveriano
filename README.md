@@ -31,7 +31,9 @@
 🔹 I'm currently exploring the Python ecosystem with **Django and FastAPI** 🐍<br>
 🔹 My next goal is to dive into **Data Science & Machine Learning** 🤖<br>
 🔹 I'm open to collaborating on **open-source projects** 🤝<br>
-🔹 Fun fact: When I'm not training myself to train neural networks, you'll find me playing video games 🎮 ✨
+🔹 Fun fact: When I'm not coding, you'll find me playing video games 🎮
+<!-- Fun fact futuro: descomente a linha abaixo quando começar a estudar ML e apague a de cima -->
+<!-- 🔹 Fun fact: When I'm not training myself to train neural networks, you'll find me playing video games 🎮 ✨ -->
 
 <br clear="right" />
 
